@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a job posting is **Real or Fake** using NLP and classification.
 
-**Live Demo →** *(add your Streamlit Cloud URL here)*
+**Live Demo →** [Streamlit App](https://yashRM27-fake-job-detector.streamlit.app)
 
 ---
 
