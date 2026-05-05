@@ -58,8 +58,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobpo
 ```
 fake-job-detector/
 ├── notebooks/
-│   ├── 01_eda_feature_engineering.ipynb
-│   └── 02_modelling.ipynb
+│   ├── fake_job_detector_colab.ipynb
 ├── model/
 │   ├── best_model.pkl
 │   ├── tfidf_vectorizer.pkl
