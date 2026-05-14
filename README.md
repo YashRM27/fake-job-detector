@@ -99,6 +99,18 @@ Deployed on **Streamlit Community Cloud** (free).
 
 **Important:** The `model/` folder (with `.pkl` files) must be committed to GitHub for the app to load on Streamlit Cloud.
 
+## Docker
+
+Pull and run the app locally using Docker:
+
+```bash
+docker pull yashrm27/fake-job-detector
+docker run -p 8501:8501 yashrm27/fake-job-detector
+```
+
+Then open **http://localhost:8501** in your browser.
+
+Docker Hub: https://hub.docker.com/r/yashrm27/fake-job-detector
 ---
 
 ## App Features
